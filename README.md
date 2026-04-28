@@ -45,6 +45,7 @@ chmod +x Media-Hacker.py
 # last word
 I am not responsible for any misuse of this tool and I have created and developed it solely to get familiar with such tools. Please do not use it in a bad way. Again, I am not responsible for this tool.
 
-Creator: 18-year-old Iranian boy who loves programming and the world of security
+# Creator
+18-year-old Iranian boy who loves programming and the world of security ♥️
 
 
