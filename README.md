@@ -8,7 +8,7 @@ Note: When the victim runs the file, it requests a site address, for example, th
 
 # Image of the tool's output after the victim executes the malicious file on the bot.
 <p align="center">
-  <img src="Screenshot.png width="600">
+  <img src="Screenshot.png" width="600">
 </p>
 
 # What if I wasn't Iranian?
