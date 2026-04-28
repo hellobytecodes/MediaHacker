@@ -49,7 +49,15 @@ chmod +x Media-Hacker.py
 ```
 ./Media-Hacker.py
 ```
-
+# What if I didn't have a Termux?
+Run it with the Pydroid3 program, but before that, import and install the following libraries in the pip section so that the tool runs without problems. 👇
+```
+requests
+```
+and
+```
+colorama
+```
 # last word
 I am not responsible for any misuse of this tool and I have created and developed it solely to get familiar with such tools. Please do not use it in a bad way. Again, I am not responsible for this tool.
 
