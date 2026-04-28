@@ -1,6 +1,9 @@
 # MediaHacker
 A tool for testing and penetrating photos, videos, and music on Android phones.
 
+# Note
+This tool is only for Android phones.
+
 # Description
 📌 After running this tool, it asks you for the bot token and chat ID of an Iranian messenger called bale, which you must enter, and then it creates a fully encrypted malicious file for you, which you must give to the victim so that after running it, the victim can perform the operation you want.
 
@@ -22,7 +25,7 @@ https://api.telegram.org
 ```
 And after changing the script, save it and exit the script source. Then run the tool. When it asks for ID and TOKEN, enter the same numeric ID of your Telegram account along with your Telegram bot token and then the malicious file creation operation will be done and send it to the target.
 
-# installing Termux/Kali-Linux
+# installing Termux
 ```
 git clone https://github.com/hellobytecodes/MediaHacker
 ```
