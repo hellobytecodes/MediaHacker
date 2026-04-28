@@ -6,6 +6,11 @@ A tool for testing and penetrating photos, videos, and music on Android phones.
 
 Note: When the victim runs the file, it requests a site address, for example, the file is a powerful DDOS file that the attacker can use to trick the victim. To be honest, it is a fake script. After receiving the address of the desired site, it starts the malicious operation. This tool works depending on how strong the victim's internet is.
 
+# Image of the tool's output after the victim executes the malicious file on the bot.
+<p align="center">
+  <img src="Screenshot.png width="600">
+</p>
+
 # What if I wasn't Iranian?
 So if you are not Iranian and do not have access to bale.ai messenger and want to use this tool, no problem, come here to tell you the solution Well, first of all, you go into the source code and wherever it says this 👇
 ```
