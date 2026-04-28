@@ -22,7 +22,7 @@ https://api.telegram.org
 ```
 And after changing the script, save it and exit the script source. Then run the tool. When it asks for ID and TOKEN, enter the same numeric ID of your Telegram account along with your Telegram bot token and then the malicious file creation operation will be done and send it to the target.
 
-# installing Termux/Linux
+# installing Termux/Kali-Linux
 ```
 git clone https://github.com/hellobytecodes/MediaHacker
 ```
